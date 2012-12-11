@@ -27,12 +27,13 @@ This is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Lear
 
 * Knowledge of Flex development
 * 
-* A little background with Javascript
-* Experience with the [ArcGIS Javascript API](http://www.esri.com/) would help.
+* A little background with Flex
+* Experience with the [ArcGIS API for Flex](http://links.esri.com/flex) would help.
 
 ## Resources
 
 * [ArcGIS Viewer for Flex Resource Center](http://links.esri.com/flexviewer)
+* [ArcGIS API for Flex Resource Center](http://links.esri.com/flex)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 * [twitter@esri](http://twitter.com/esri)
 
