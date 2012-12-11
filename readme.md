@@ -7,15 +7,19 @@ This is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Lear
 [App](https://raw.github.com/Esri/arcgis-viewer-flex/master/arcgis-viewer-flex.png)
 
 ## Features
-* Illustrates how to change basemaps
-* Many basemaps to choose from: Streets, Satellite, Topography, Oceans, Gray...
+* Ready-to-deploy GIS web client mapping application for ArcGIS Server. 
+* A complete web mapping application, and application framework that allows for ease and efficiency toward building web-mapping applications based on ArcGIS API for Flex.
+* Many basemaps to choose from: Streets, Satellite, Topography, Oceans, Grayscale...
 * Widgets provide specific funtionality, but their source code can also be used as samples for other apps
+* Easily configurable to meet custom business needs and requirements—no programming skills required to deploy.
+* Viewer functionality is defined by widgets—many core widgets are included.
+* New functionality can be created with custom widgets developed using ArcGIS API for Flex.
 
 ## Instructions (Getting Started)
 
 See http://links.esri.com/flexviewer-gettingstarted-developers for more details.
 
-1. In Adobe Flash Builder 4.5/4.6/4.7, go to "File" -> "Import Flash Builder project..."
+1. In Adobe Flash Builder 4.6, go to "File" -> "Import Flash Builder project..."
 2. Keeping "File" option selected, click "Browse..." button.
 3. Select flexviewer-3.1-src.zip downloaded in step 1, e.g. "C:\Documents and Settings\jack\My Documents\flexviewer-3.1-src.zip".
 4. "Extract new project to:" textbox will be automatically set to location where the project source will reside, e.g. "C:\Documents and Settings\jack\Adobe Flash Builder 4.6\FlexViewer.
