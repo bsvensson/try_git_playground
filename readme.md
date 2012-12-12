@@ -4,7 +4,9 @@ This is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Lear
 
 [View live app here](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
 
-[App](https://raw.github.com/Esri/arcgis-viewer-flex/master/arcgis-viewer-flex.png)
+
+[![Image of Flex Viewer app](https://raw.github.com/Esri/public-safety-cop/master/public-safety-cop.png "Example Flex Viewer app")](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
+
 
 ## Features
 * Ready-to-deploy GIS web client mapping application for ArcGIS Server. 
