@@ -4,17 +4,16 @@ This is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Lear
 
 [View live app here](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
 
-
-[![Image of Flex Viewer app](https://raw.github.com/Esri/public-safety-cop/master/public-safety-cop.png "Example Flex Viewer app")](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
+[![Image of Flex Viewer app](https://raw.github.com/Esri/arcgis-viewer-flex/master/arcgis-viewer-flex.png "Example Flex Viewer app")](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
 
 
 ## Features
-* Ready-to-deploy GIS web client mapping application for ArcGIS Server. 
+* Ready-to-deploy GIS web client mapping app for ArcGIS Server.
 * A complete web mapping application, and application framework that allows for ease and efficiency toward building web-mapping applications based on ArcGIS API for Flex.
 * Many basemaps to choose from: Streets, Satellite, Topography, Oceans, Grayscale...
-* Widgets provide specific funtionality, but their source code can also be used as samples for other apps
-* Easily configurable to meet custom business needs and requirements—no programming skills required to deploy.
-* Viewer functionality is defined by widgets—many core widgets are included.
+* Widgets provide specific functionality, but their source code can also be used as samples for other apps
+* Easily configurable to meet custom business needs and requirements - no programming skills required to deploy.
+* Viewer functionality is defined by widgets - many core widgets are included.
 * New functionality can be created with custom widgets developed using ArcGIS API for Flex.
 
 ## Instructions (Getting Started)
@@ -29,7 +28,7 @@ See http://links.esri.com/flexviewer-gettingstarted-developers for more details.
 6. If prompted to upgrade the project (because it was created with a previous version of Flash Builder), click "OK"
 7. If prompted to choose Flex SDK version, select "Flex 4.6.0" or higher
 8. If needed, download API Library from http://links.esri.com/flex-api/latest-download.
-9. Go to "Project" -> "Properties" -> "Flex Build Path". 
+9. Go to "Project" -> "Properties" -> "Flex Build Path".
 10. Click "Add SWC" and navigate to the agslib-3.[*]-[YYYY-MM-DD].swc file.
 
 Optionally:
@@ -42,12 +41,6 @@ Optionally:
 5. Rebuild the project.
 6. Select the project. Now let's run it - there are multiple ways of doing this: one way is to click green triangle button on top, another way is click Ctrl-F11 and a third way is to click "Run" menu, then select "Run Index".
 7. Browser will open and Flex Viewer application will be displayed.
-
-## Non-source code compiled versions
-
-1. Download and unzip the .zip file.
-2. Web-enable the directory or copy/paste the source to your own .html file.
-3. Access the .html page.
 
 ## Requirements
 
@@ -70,7 +63,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 
 ## Contributing
 
-Anyone and everyone is welcome to contribute. 
+Anyone and everyone is welcome to contribute.
 
 ## Licensing
 Copyright 2012 Esri
@@ -88,3 +81,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt]( https://raw.github.com/Esri/arcgis-viewer-flex/master/license.txt) file.
+
+[](Esri Tags: ArcGIS Web Flex Viewer Map Library API)
+[](Esri Language: ActionScript)
