@@ -5,8 +5,7 @@ There are several ways you can contribute to the [ArcGIS API for Flex samples](h
 * Report potential bugs to [Esri Support](http://support.esri.com/) and/or create a GitHub issue for it.
 * Contribute sample code to the [Flex API Samples repo](https://github.com/Esri/arcgis-samples-flex/).
 
-This guide describes how you can contribute improvements to these Flex API samples.
-This guide will help make sure your contribution (pull request) will be accepted and easily merged.
+To contribute code to these Flex API samples, please read the following steps to help ensure your contribution (pull request) will be accepted and easily merged.
 
 1. Make sure you have a [GitHub account](https://github.com/signup/free).
 2. [Fork](https://help.github.com/articles/fork-a-repo) the [Flex API samples repo](https://github.com/Esri/arcgis-samples-flex/) on GitHub.
